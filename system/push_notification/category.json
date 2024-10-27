@@ -1,0 +1,39 @@
+{
+    "學生相關": {"res": "regexs", 
+        "regexs": ["上課", "上課地點", "名單"]}, 
+    "家長": {"res": "regexs", 
+        "regexs": ["家長日"]}, 
+    "考試資訊": {"res": "regexs", 
+        "regexs": ["測驗", "題庫", "定期評量", "段考"]}, 
+    "課外活動、營隊資訊": {"res": "regexs", 
+        "regexs": ["營隊", "育樂營", "講座", "報名", "賽", "研習"]}, 
+    "每月菜單 *": {"res": "feed", "name": "每月菜單", "url": "https://www.yphs.ntpc.edu.tw/category/office/div_220/section_223/healthy/monthy_menu_list/feed/"}, 
+    
+    "國中部資訊 J": {"res": "regexs", 
+        "regexs": ["國中部", "國一", "國二", "國三", "國七", "國八", "國九"]}, 
+    "高中部資訊 S": {"res": "regexs", 
+        "regexs": ["高中部", "高一", "高二", "高三", "第二外語", "多元選修", "自主學習計畫"]}, 
+    
+    "國九會考、升學 J": {"res": "regexs", 
+        "regexs": ["國九", "國三", "會考", "免試入學"]}, 
+    "高三學測、升學 S": {"res": "regexs", 
+        "regexs": ["高三", "學測", "英聽", "申請入學", "個人申請", "繁星", "分科"]}, 
+
+    "高中職五專升學資訊 J *": {"res": "feed", "name": "高中職五專升學資訊", "url": "https://www.yphs.ntpc.edu.tw/category/progression/progression_02_line/feed"}, 
+    "大學升學資訊 S *": {"res": "feed", "name": "大學升學資訊", "url": "https://www.yphs.ntpc.edu.tw/category/progression/progression_01_line/feed"}, 
+
+    "國中新生入學 J *": {"res": "feed", "name": "國中部七年級新生入學資訊", "url": "https://www.yphs.ntpc.edu.tw/category/freshman/freshman_01_line/feed/"}, 
+    "高中新生入學 S *": {"res": "feed", "name": "高中部招生入學資訊", "url": "https://www.yphs.ntpc.edu.tw/category/freshman/freshman_02_line/feed/"}, 
+
+    "校網精選照片 *": {"res": "feed", "name": "活動花絮", "url": "https://www.yphs.ntpc.edu.tw/category/main_gallery/feed/"}, 
+    "榮譽榜 *": {"res": "feed", "name": "榮譽榜", "url": "https://www.yphs.ntpc.edu.tw/category/news/news_3/feed/"}, 
+    "獎補助學金 *": {"res": "feed", "name": "獎補助學金", "url": "https://www.yphs.ntpc.edu.tw/category/news/news_4/feed/"}, 
+    "教師進修研習資訊 *": {"res": "feed", "name": "教師進修研習資訊", "url": "https://www.yphs.ntpc.edu.tw/category/news/news_2/feed/"}, 
+    "學雜費減免 *": {"res": "feed", "name": "學雜減免", "url": "https://www.yphs.ntpc.edu.tw/category/news/news_6/feed/"}, 
+    "雙聯學制 S *": {"res": "feed", "name": "雙聯學制", "url": "https://www.yphs.ntpc.edu.tw/category/news/news_8/feed/"}, 
+
+
+
+    "系統推播": {"res": "system"}, 
+    "系統重要公告": {"res": "system"}
+}

@@ -1,0 +1,7 @@
+AddType application/typescript .ts
+AddType application/typescript ts
+
+Options -Indexes
+RewriteEngine On
+# RewriteRule ^form https://docs.google.com/forms/d/1uWG4VzuGC1r-l2SNnPtJw3mZgJTFjW-BwmDAPPzqhAI/ [L,R=302]
+# RewriteRule ^form https://docs.google.com/forms/d/e/1FAIpQLSe8w3PuL7tXvqydr7Jm6D1lGsFkRjDcaxzGGj14Tlg8Y61Wvg/viewform [L,R=302]

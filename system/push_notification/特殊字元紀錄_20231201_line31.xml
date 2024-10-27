@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>最新公告 &#8211; 新北市立永平高級中學</title>
+	<atom:link href="https://www.yphs.ntpc.edu.tw/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.yphs.ntpc.edu.tw</link>
+	<description>從永平出發，向世界找答案</description>
+	<lastBuildDate>Fri, 01 Dec 2023 07:43:27 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://www.yphs.ntpc.edu.tw/wp-content/uploads/cropped-logo_2-32x32.png</url>
+	<title>最新公告 &#8211; 新北市立永平高級中學</title>
+	<link>https://www.yphs.ntpc.edu.tw</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+		<item>
+		<title>教育部113年度青年教育與就業儲蓄帳戶方案</title>
+		<link>https://www.yphs.ntpc.edu.tw/news/%e6%95%99%e8%82%b2%e9%83%a8113%e5%b9%b4%e5%ba%a6%e9%9d%92%e5%b9%b4%e6%95%99%e8%82%b2%e8%88%87%e5%b0%b1%e6%a5%ad%e5%84%b2%e8%93%84%e5%b8%b3%e6%88%b6%e6%96%b9%e6%a1%88/</link>
+		
+		<dc:creator><![CDATA[資料組]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2023 02:16:27 +0000</pubDate>
+				<category><![CDATA[行政公告]]></category>
+		<category><![CDATA[最新公告]]></category>
+		<guid isPermaLink="false">https://www.yphs.ntpc.edu.tw/uncategorized/%e6%95%99%e8%82%b2%e9%83%a8113%e5%b9%b4%e5%ba%a6%e9%9d%92%e5%b9%b4%e6%95%99%e8%82%b2%e8%88%87%e5%b0%b1%e6%a5%ad%e5%84%b2%e8%93%84%e5%b8%b3%e6%88%b6%e6%96%b9%e6%a1%88/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

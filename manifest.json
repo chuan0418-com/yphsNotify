@@ -1,0 +1,16 @@
+{
+    "name": "永平訊息不漏接－網頁管理系統",
+    "short_name": "永平訊息不漏接",
+    "theme_color": "#0d6efd",
+    "icons": [
+      {
+        "src": "assets/校徽_純圖示.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone", 
+    "gcm_sender_id": "103953800507"
+  }
